@@ -1,0 +1,15 @@
+fn main() {
+    println!("Hello, Again!");
+
+    let bad_name = String::from("Marcil");
+    let fixed_name = bad_name.replace("i", "e");
+    println!("Your name is: {}", fixed_name);
+    
+}
+//Input of Client details ie Names, Age, Date of Birth, 1st Review Date, Term of Pregnancy, CD4 count, emergency number,
+
+//synced push notification
+
+// Graphical feed push after taking the medication
+
+// Thank you message/congs message
